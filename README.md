@@ -20,8 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repositorio en github](https://github.com/fabiosmorinigo/challengeQRCode)
 
 ## My process
 Download the necessary files, create the html, css file, structure the content in html5, add the styles in css3.
@@ -37,7 +36,7 @@ Download the necessary files, create the html, css file, structure the content i
 
 ## Author
 
-- Website - [Add your name here](https://portfoliofabio.netlify.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/fabiosmorinigo)
-- Twitter - [@yourusername](https://www.twitter.com/fabiosmorinigo)
+- Website - [Portfolio Fabio Sosa](https://portfoliofabio.netlify.app/)
+- Frontend Mentor - [@yfabiosmorinigo](https://www.frontendmentor.io/profile/fabiosmorinigo)
+- Twitter - [@fabiosmorinigo](https://www.twitter.com/fabiosmorinigo)
 
