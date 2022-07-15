@@ -37,6 +37,6 @@ Download the necessary files, create the html, css file, structure the content i
 ## Author
 
 - Website - [Portfolio Fabio Sosa](https://portfoliofabio.netlify.app/)
-- Frontend Mentor - [@yfabiosmorinigo](https://www.frontendmentor.io/profile/fabiosmorinigo)
+- Frontend Mentor - [@fabiosmorinigo](https://www.frontendmentor.io/profile/fabiosmorinigo)
 - Twitter - [@fabiosmorinigo](https://www.twitter.com/fabiosmorinigo)
 
